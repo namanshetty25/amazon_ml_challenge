@@ -1,0 +1,9 @@
+dataset/
+*.tsv
+output/
+*.joblib
+*.pkl
+*.zip
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
